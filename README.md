@@ -1,3 +1,2 @@
-# Nextly-Landing.
-# Nextly
-# Nextly
+# Nextly.
+# Nextly..
